@@ -1,0 +1,13 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    number_in_words (0.0.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  number_in_words
+
+BUNDLED WITH
+   1.15.0
